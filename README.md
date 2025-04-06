@@ -15,10 +15,6 @@ A fun and interactive browser-based **Simon Says** game built using **HTML**, **
 - **CSS** – Styling and layout
 - **JavaScript** – Core logic and interactions
 
-## 📸 Screenshots
-
-> _Add screenshots here if available (optional)_
-
 ## 🎮 How to Play
 
 1. Press any key to start the game.
